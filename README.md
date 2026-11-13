@@ -6,6 +6,7 @@
 
 **Author:** Lewis James Seals Jr.  
 **Publisher:** Lewis Seals Publishing L3C
+**DOI:** https://zenodo.org/records/24202245
 
 This repository contains the supplied book manuscript in Markdown and its cover artwork.
 

@@ -10,7 +10,7 @@
 
 This repository contains the supplied book manuscript in Markdown and its cover artwork.
 
-## Contents
+## Contents 
 
 - [`Secrets-of-Markov-Chains.md`](Secrets-of-Markov-Chains.md) — manuscript, including all five parts and appendices.
 - [`cover.png`](cover.png) — front-cover artwork (1024 × 1536 PNG).
